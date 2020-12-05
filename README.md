@@ -1,5 +1,8 @@
 # Exception Handling Spring Boot REST API
 
+<a href="https://javatodev.com/exception-handling-spring-boot/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/10/Exception-Handling-Spring-Boot-REST-API-800x450.png" alt="Exception Handling Spring Boot REST API"/></a>
+
 <p align="left">
 Exception handling one of the core concepts which is really necessary when we build an application using spring boot. So in REST API development, it carries a bigger role. So in this tutorial, I’m going to explain how we can configure exception handling in spring boot REST API.
 
